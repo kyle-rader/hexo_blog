@@ -63,7 +63,13 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
+
+social:
+  LinkedIn: https://www.linkedin.com/in/kylewrader
+  GitHub: https://github.com/kyle-rader
+  Facebook: https://www.facebook.com/Mcyamaha818
+
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
