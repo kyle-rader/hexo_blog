@@ -3,7 +3,7 @@
 # ---------------------------------------------------------------
 
 # Place your favicon.ico to /source directory.
-favicon: /images/logo.png
+favicon: /images/logo.png 
 
 # Set default keywords (Use a comma to separate)
 keywords: "Hexo, NexT"
@@ -57,9 +57,9 @@ menu_icons:
 # ---------------------------------------------------------------
 
 # Schemes
-scheme: Muse
+#scheme: Muse
 #scheme: Mist
-#scheme: Pisces
+scheme: Pisces
 
 
 
@@ -253,3 +253,4 @@ images: images
 
 # Theme version
 version: 0.5.0
+
